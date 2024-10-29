@@ -1,4 +1,4 @@
-#Template Avaliação Pares
+# Template Avaliação Pares
 
 | Aluno Avaliado | Avaliador | Critério                        | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) | Observações do Avaliador |
 |----------------|-----------|---------------------------------|---------------------|----------------------------------|--------------------------|---------------------------|
