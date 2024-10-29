@@ -4,7 +4,6 @@
 |----------------|-----------|---------------------------------|---------------------|----------------------------------|--------------------------|---------------------------|
 | Nome do Aluno  | Nome do Avaliador | Montagem física com cores corretas, disposição dos fios e uso adequado de resistores (Até 4 pt) |                 |                       | 0                        |                           |
 | Nome do Aluno  | Nome do Avaliador | Temporização adequada conforme medições externas (Até 3 pt)          |                 |                        |0                        |                           |
-| Nome do Aluno  | Nome do Avaliador | Código com fases corretas do semáforo e estrutura adequada (variáveis representativas e comentários) (Até 3 pt)   |                   |                       | 0                        |                           |
 |  |           |                            |  |
 |  |           |                             |    |  | **Pontuação Total:**    | XX pontos   |
 
