@@ -6,5 +6,5 @@
 | Nome do Aluno  | Nome do Avaliador | Temporização adequada conforme medições externas          | Até 3                  | Até 1,5                       | 0                        |                           |
 | Nome do Aluno  | Nome do Avaliador | Código com fases corretas do semáforo e estrutura adequada (variáveis representativas e comentários) | Até 3                  | Até 1,5                       | 0                        |                           |
 |  |           |                            |  |
-|  |           |                             |  **Pontuação Total:** XX pontos   |
+|  |           |                             |    |  |  **Pontuação Total:** XX pontos   |
 
